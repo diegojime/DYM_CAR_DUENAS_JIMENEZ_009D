@@ -1,4 +1,7 @@
 # DYM_CAR_DUENAS_JIMENEZ_009D
+*para poder tener acceso a la aplicacion correctamente por el cmd se debe instalar npm install --save @ionic/storage
+*luego de haber instalado storage debe instalar npm install --save @ionic/storage-angular
+*con esas dos cosas ya instaladas por el cmd puede navegar correctamente por al App
 1)ingresar a la app, desde inico de sesion
 2)registrar usuario para luego de eso logear
 3)una vez registado con los datos ingresa su correo un contraseña creada y tiene acceso al conductor o al alumno
